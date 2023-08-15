@@ -1,0 +1,284 @@
+Austria
+Belgium
+Bulgaria
+Croatia
+Czech
+Denmark
+England
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Latvia
+Netherlands
+Northern Ireland
+Norway
+Poland
+Portugal
+Romania
+Russia
+Scotland
+Serbia and Montenegro
+Slovakia
+Slovenia
+Spain
+Sweden
+Switzerland
+Turkey
+Ukraine
+Wales
+Angola
+Cameroon
+Coted'Ivoire
+Ghana
+Nigeria
+SouthAfrica
+Togo
+Tunisia
+CostaRica
+Mexico
+Trinidad and Tobago
+United States
+Argentina
+Brazil
+Chile
+Colombia
+Ecuador
+Paraguay
+Peru
+Uruguay
+Iran
+Japan
+Saudi Arabia
+South Korea
+Australia
+Classic England
+Classic France
+Classic Germany
+Classic Italy
+Classic Netherlands
+Classic Argentina
+Classic Brazil
+Arsenal
+Aston Villa
+BLR Blackburn Rovers
+Bolton Wanderers
+Charlton Athletic
+Chelsea London
+Everton
+Fulham
+Liverpool
+Manchester
+Manchester United
+Middlesbrough
+Newcastle United
+FC Portsmouth
+Reading FC
+Sheffield United
+Tottenham Hostpur
+Watford
+West Ham United
+Wigan Athletic
+AJ Auxerre
+Girondins de Bordeaux
+Le Mans UC 72
+RC Lens
+Lille
+FC Lorient
+Olympique Lyonnais
+Olympique de Marseille
+AS Monaco
+AS Nancy-Lorraine
+Nantes-Atlantique
+OGC Nice
+PSG Paris Saint-Germain
+Stade Rennais
+AS Saint-Etienne
+CS Sedan
+FC Sochaux
+Toulouse
+ES Troyes
+Valenciennes
+Ascoli
+Atalanta
+Cagliari
+Catania
+Chievo Verona
+Empoli
+Fiorentina
+Inter
+Lazio
+Livorno
+Messina
+A.C. Milan
+Palermo
+Parma
+Reggina
+A.S. Roma
+Sampdoria
+Siena
+Torino
+Udinese
+ADO Den Haag
+Ajax
+AZ
+SBV Excelsior
+Feyenoord
+FC Groningen
+SC Heerenveen
+Heracles Almelo
+NAC Breda
+N.E.C. Nijmegen
+PSV Eindhoven
+RKC Waalwijk
+RJC Roda JC
+Sparta Rotterdam
+FC Twente
+FC Utrecht
+Vitesse
+Willem II
+Athletic Club
+F.C. Barcelona
+R. Betis
+R.C. Celta
+R.C. Deportivo la Coruna
+R.C.D. Espanyol
+Getafe C.F
+C. Gimnastic
+R.C. Recreativo de Huelva 
+Levante U.D.
+C. Atletico Madrid
+Real Madrid
+R.C.D. Mallorca
+C.A. Osasuna
+R. Racing
+R. Sociedad
+Sevilla F.C.
+Valencia
+Villarreal
+R. Zaragoza
+RSC Anderlecht
+Club Brugge
+Sparta Praga
+F.C. Copenhagen
+Bayern München
+Olympiacos Piraeus
+PAO Panathinaikos
+Juventus
+Rosenborg
+Benfica
+FC Porto
+Sporting Lisbon
+Celtic
+Rangers
+Djurgardens
+Besiktas
+Fenerbahce
+Galatasaray
+Dynamo Kiev
+Boca Juniors
+River Plate
+Sao Paolo
+PES PES United
+WEU WE United
+Team A
+Team B
+Team C
+Team D
+Team E
+Team F
+Team G
+Team H
+Team I
+Team J
+Team K
+Team L
+Team M
+Team N
+Team O
+Team P
+Team Q
+Team R
+Bosnia and Herzegovina
+Estonia
+Israel
+Guatemala
+Honduras
+Jamaica
+Panama
+Bolivia
+Venezuela
+Bahrain
+China
+Iraq
+Jordan
+Kuwait
+North Korea
+UAE
+Uzbekistan
+ML United
+AC Maestore
+AS Victoire
+CA Especialista
+Bravona
+FC Aries
+FC Taurus
+AC Gemini
+AS Cancer
+AC Leo
+AS Virgo
+Libra
+SCP Scorpio
+FC Sagittarius
+AS Capricorn
+AC Aquarius
+Pisces FC
+WE Japan
+Italian All-Stars
+English All-Stars
+Dutch All-Stars
+Spanish All-Stars
+Germany All-Stars
+French All-Stars
+Argentinian All-Stars
+Brazilian All-Stars
+AS Mohican
+FC Magerio
+Longuedez
+Bosedez
+Maccingami FC
+Wakame'73
+Waketenaze'91
+WOS World Selection
+European Selection
+North American Selection
+South American Selection
+Asia Oceanian Selection
+African Selection
+Master League Youth Squad
+The Jaguars
+The Goliaths
+Gli Pelati
+Aposenta
+Carrinho
+Meialua
+SS Divo
+Craquenho
+Passers
+PES Athletic
+WE Athletic
+Canuch
+Rawore
+MLD MasterLeague Default
+MasterLeague Hide1
+MasterLeague Hide2
+MasterLeague Hide3
+MasterLeague Hide4
+MasterLeague Hide5
+Master League New Face
+Solid Color
+Un belonging
+Other

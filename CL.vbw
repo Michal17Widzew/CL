@@ -1,0 +1,6 @@
+frmMain = 128, 286, 1450, 936, , 236, 184, 991, 855, C
+mdl_Memory_Hook = 26, 26, 1365, 676, C
+mdl_System_ini_Config = 128, 129, 1467, 779, C
+cls_Champion_League = 194, 159, 1533, 809, C
+cls_Choose_Team = 159, 81, 1571, 897, C
+mdl_General = 130, 130, 1466, 780, 

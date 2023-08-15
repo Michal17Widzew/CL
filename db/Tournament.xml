@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <GroupA>
+    <Team1>1</Team1>
+    <Team2>2</Team2>
+    <Team3>3</Team3>
+    <Team4>4</Team4>
+  </GroupA>
+
+  <GroupB>
+    <Team1>5</Team1>
+    <Team2>6</Team2>
+    <Team3>7</Team3>
+    <Team4>8</Team4>
+  </GroupB>
+
+  <GroupC>
+    <Team1>9</Team1>
+    <Team2>10</Team2>
+    <element3>11</element3>
+    <Team4>12</Team4>
+  </GroupC>
+
+  <GroupD>
+    <Team1>13</Team1>
+    <Team2>14</Team2>
+    <Team3>15</Team3>
+    <Team4>16</Team4>
+  </GroupD>
+
+</root>
+
